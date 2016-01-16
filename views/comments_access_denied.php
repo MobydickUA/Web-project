@@ -1,0 +1,1 @@
+<h4><span>Only registered users can leave comments. Sign in or register</span></h4>
